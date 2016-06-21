@@ -1,0 +1,13 @@
+﻿LARISA-ATHENS 
+DEPARTURE
+DAILY (MONDAY-FRIDAY) 
+04:00, 08:00, 10:00, 12:00, 15:00, 
+15:30*, 17:00*, 18:00, 00:15 
+*only Friday
+					  
+SATURDAY-SUNDAY
+08:00, 10:00, 12:00, 15:00, 15:30*,
+17:00*, 18:00, 00:15 
+*only Sunday
+
+

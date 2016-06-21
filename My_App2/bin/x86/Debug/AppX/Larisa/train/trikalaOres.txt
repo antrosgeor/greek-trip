@@ -1,0 +1,27 @@
+﻿LARISA- TRIKALA
+DIRECTLY
+departure 04:11	arrival 05:17		
+departure 18:01	arrival 19:10		
+
+with stand Palaiofarsalos
+
+from larisa  00:43  arrival Pal/os    01:07		
+from Pal/os  04:38  arrival Trikala   05:17		
+
+from larisa  06:33  arrival Pal/os	  06:52		
+from Pal/os  12:22  arrival Trikala	  13:03		
+
+from larisa  08:26  arrival Pal/os 	  08:45		
+from Pal/os  12:22  arrival Trikala	  13:03		
+
+from larisa  11:26  arrival Pal/os	  11:45		
+from Pal/os  12:22  arrival Trikala	  13:03		
+
+from larisa  11:59  arrival Pal/os	  12:17		
+from Pal/os  12:22  arrival Trikala   13:03		
+
+from larisa  13:26  arrival Pal/os	  13:45		
+from Pal/os  18:31  arrival Trikala   19:10		
+
+from larisa  16:26  arrival Pal/os    16:45		
+from Pal/os  18:31  arrival Trikala	  19:10		

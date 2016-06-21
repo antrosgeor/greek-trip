@@ -1,0 +1,23 @@
+﻿LARISA-LAMIA
+With stops at LIANOKLADI	
+
+departure larisa	  00:43	arrival lainokladi 02:31		
+departure lainokladi  05:15	arrival lamia 05:25
+
+departure larisa	  06:33	arrival lainokladi 08:10	
+departure lainokladi  08:15	arrival lamia 08:25
+
+departure larisa	  08:26	arrival lainokladi 10:06
+departure lainokladi  10:15	arrival lamia 10:24
+
+departure larisa	  11:26	arrival lainokladi 13:06
+departure lainokladi  13:15	arrival lamia 13:25
+
+departure larisa	  13:26	arrival lainokladi 15:06
+departure lainokladi  15:15	arrival lamia 15:25	
+
+departure larisa	  16:26	arrival lainokladi 18:03
+departure lainokladi  18:10	arrival lamia 18:20
+
+departure larisa	  19:26	arrival lainokladi 21:05
+departure lainokladi  21:10	arrival lamia 21:19		

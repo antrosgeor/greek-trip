@@ -1,0 +1,10 @@
+﻿VOLOS-ATHENS
+*(intermediate stops LARISA)
+
+Departure
+05:30, 07:30, 10:25, 12:25, 15:25, 
+17:25, 23:25,
+
+Arrival
+10:26, 12:24, 15:24, 17:24, 20:24, 
+23:24, 05:01, 

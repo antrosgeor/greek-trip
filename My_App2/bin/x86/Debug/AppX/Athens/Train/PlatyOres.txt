@@ -1,0 +1,9 @@
+﻿ATHENS-PLATY
+
+Departure
+23:55,  07:18,  08:27, 10:18, 12:18,  16:15,
+
+Arrival
+07:27*, 13:57*, 15:33, 17:01, 18:31*, 23:41,
+
+*=No traffic on Saturdays, Sundays, Holidays

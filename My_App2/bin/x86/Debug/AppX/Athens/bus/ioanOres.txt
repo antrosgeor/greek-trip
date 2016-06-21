@@ -1,0 +1,8 @@
+﻿Schedules for Ioannina prefecture
+DESTINATION ROUTE 
+FROM Ioannina 
+06.00, 08.00, 09.30, 11.00, 13.00, 15.30, 
+17.00, 19.30 
+
+(ONLY TEMPORARY)
+ 21.30, 22.30 
