@@ -1,4 +1,4 @@
-# Greek Trip
+# **Greek Trip**
 
 Windows 8 application
 
